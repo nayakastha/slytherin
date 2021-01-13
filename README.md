@@ -31,6 +31,17 @@ This means you're free to use the project, as long as you star its GitHub reposi
 Your appreciation makes us grow and glow up. ⭐
 
 ### Screenshots
+Desktop Screen
+![Desktop Screen](https://github.com/nayakastha/slytherin/blob/059d36cdb1f9bb5385fb8cdb21787b3b28dd2c4c/screenshots/desktop.png)
+
+Mobile Screen
+
+
+
+
+<img src="https://github.com/nayakastha/slytherin/blob/059d36cdb1f9bb5385fb8cdb21787b3b28dd2c4c/screenshots/mobile%20screen.jpeg" alt="Mobile Screen" width="250" height="550">
+
+
 
 
 
