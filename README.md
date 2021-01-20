@@ -1,19 +1,20 @@
 [![Starware](https://img.shields.io/badge/Starware-⭐-black?labelColor=f9b00d)](https://github.com/zepfietje/starware)
 # SLYTHERIN
 
+<img src="https://github.com/nayakastha/slytherin/blob/master/screenshots/Flutter%20Workshop_Youtube-Master.png" alt="POSTER" >
+
 A one screen app made using Flutter without any plug-in for the vintage Snake Game. 
+For the tutorial, visit [Youtube Video](http://bit.ly/yt-dsc-fws)
 
 
 ## Getting Started With Flutter
-This project can be a starting point for a Flutter developer.
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+This project can be a starting point for a Flutter developer. 
 
 For help getting started with Flutter, view official
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+You can use the [Dartpad](https://dartpad.dev/) playground for experimenting with basic stuff.
 
 ## Contributions are welcome 🎉🎉
 
